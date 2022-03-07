@@ -28,7 +28,7 @@ addBtn.addEventListener('click', () => {
         tasks.appendChild(newItem);
         input.value = '';
     } else {
-        alert('Please enter a task')
+        alert('Please enter with a task')
     }
 
 })
